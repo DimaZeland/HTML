@@ -3,8 +3,15 @@
 	<HEAD>
 		<TITLE>Документ со сценарием</TITLE>
 		<META http-equiv="Content-Script-Type" content="text/tlc; charset=UTF-8">
-		<SCRIPT type="text/vbscript" src="script/vbcalc">
-			<P> Вызывается сценарий из внешнего файла</P>
+		<SCRIPT type="text/VBScript">
+			<!-- cкрыть содержимое сценария от старых браузеров
+			... код сценария на VBScript ...
+			' конец скрытого содержимого -->
+		</SCRIPT>
+		<SCRIPT type="text/tlc">
+			<!-- cкрыть содержимое сценария от старых браузеров
+			... код сценария на Tlc ...
+			# конец скрытого содержимого -->
 		</SCRIPT>
 	</HEAD>
 	<BODY bgcolor="white" background="white" text="#000000" link="blue" alink="red" vlink="purple">
