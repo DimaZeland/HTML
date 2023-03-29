@@ -2,6 +2,12 @@
 
 🧩 HyperText Markup Language different source code examples
 
+### ⚙️ The project uses:
+
+- [HTML](https://html.spec.whatwg.org/multipage/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [JavaScript Programming language](https://www.w3schools.com/js/)
+
 ## 📚 Contents
 
 #### [HTML Basic](https://github.com/DimaZeland/HTML/tree/master/1-Basic)
